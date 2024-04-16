@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/MorganEro/FrontEndMentor_Workit_landing_page)
-- Live Site URL: (https://morganero.github.io/FrontEndMentor_Workit_landing-_page/)
+- Live Site URL: (https://morganero.github.io/FrontEndMentor_Workit_landing_page/)
 
 ## My process
 
